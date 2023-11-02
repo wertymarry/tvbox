@@ -9,9 +9,10 @@
 {"name":"🚒挺好丨运输车啊","url":"https://weixine.net/ysc.json"},
 {"name":"🍚挺好丨饭太硬啊","url":"http://饭太硬.top/tv"},
 {"name":"🐼挺好丨肥猫肥猫","url":"http://我不是.肥猫.love:63/接口禁止贩卖"},
-{"name":"🌙挺好丨月光宝盒","url":"https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒"},
-{"name":"🌒挺好丨宝盒影视","url":"https://jihulab.com/ygbh1/box/-/raw/main/ys.json"},
-{"name":"🌃挺好丨宝盒JS","url":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js.json"},
+{"name":"🌙挺好丨月光宝盒","url":"https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"},
+{"name":"🌒挺好丨宝盒影视","url":"https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"},
+{"name":"🌃挺好丨宝盒proo","url":"https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/prox.json"},
+{"name":"🌃挺好丨宝盒proy","url":"https://ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/box原.json"},
 {"name":"🌨挺好丨高天流云","url":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"🍃挺好丨吾爱吾爱","url":"http://52bsj.vip:98/wuai"},
 {"name":"💦挺好丨巧技巧技","url":"http://pandown.pro/tvbox/tvbox.json"},
@@ -30,5 +31,4 @@
 {"name":"🔞FL2","url":"https://s2.pub/n2"},
 {"name":"🔞老鸭","url":"https://s2.pub/of"},
 {"name":"🔞福利9","url":"https://pan.shangui.cc/f/LVLKS3/%E7%A6%8F%E5%88%A99.txt"}
-
 ]}

@@ -12,7 +12,7 @@
 {"name":"🌙挺好丨宝盒vip","url":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"},
 {"name":"🌒挺好丨宝盒pro","url":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"},
 {"name":"🌃挺好丨宝盒prox","url":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/prox.json"},
-{"name":"🌃挺好丨宝盒proy","url":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box%E5%8E%9F.json"},
+{"name":"🌃挺好丨宝盒proy","url":"https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/box原.json"},
 {"name":"🌨挺好丨高天流云","url":"https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"},
 {"name":"🍃挺好丨吾爱吾爱","url":"http://52bsj.vip:98/wuai"},
 {"name":"💦挺好丨巧技巧技","url":"http://pandown.pro/tvbox/tvbox.json"},

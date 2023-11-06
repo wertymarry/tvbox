@@ -31,4 +31,5 @@
 {"name":"🔞FL2","url":"https://s2.pub/n2"},
 {"name":"🔞老鸭","url":"https://s2.pub/of"},
 {"name":"🔞福利9","url":"https://pan.shangui.cc/f/LVLKS3/%E7%A6%8F%E5%88%A99.txt"}
+
 ]}

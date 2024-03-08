@@ -1,4 +1,4 @@
-﻿台湾,#genre#
+﻿台湾，#流派#
 民视,P2p://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,P2p://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,P2p://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -656,7 +656,7 @@ CHC家庭影院,P2p://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21c
 EYETV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
 爱尔达影剧台,P2p://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 亚洲剧台,P2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
-SP_0204,#genre#
+SP_6688,#genre#
 彩虹e台,P2p://generationnexxxt.com:19806/65965911000021e1a38ef6eb6d960419
 彩虹电影台,P2p://generationnexxxt.com:19806/659659670009e1e0a390495b56fe0ef5
 LOOK TV,P2p://generationnexxxt.com:19806/65965b99000447ada398db445ba341d9

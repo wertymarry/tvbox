@@ -25,5 +25,4 @@
 {"name":"🦊挺好丨warnig","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
 {"name":"🌪挺好丨南风","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
 {"name":"☁挺好丨云星","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
-
 ]}

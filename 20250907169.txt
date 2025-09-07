@@ -1,47 +1,20 @@
 华源香港,#genre#
-
 综合频道#g
 Channel 8(b),p3p://108.181.32.169:53187/642605590007b381edde676b090919b0
 Channel 5,p3p://108.181.32.169:53187/642606de000ae43dede457c221b81de1
 Channel 5(b),p3p://108.181.32.169:53187/642606cc000ea9beede41269137f162d
 Channel u,p3p://108.181.32.169:53187/642606fa000535beede4c3ae3202280b
 Channel u(b),p3p://108.181.32.169:53187/642606ee00041309ede4948330973faf
-
 娱家,p3p://108.181.32.169:53187/65f5aef60008044721b5ba22261e5d65
 ECity 都会台,p3p://108.181.32.169:53187/65f5aefd0000f16221b5d3aa029b351e
-
-
-
-
-
-
 娱家,p3p://108.181.32.169:53187/65f5aef60008044721b5ba22261e5d65
-
-
 ECity 都会台,p3p://108.181.32.169:53187/65f5aefd0000f16221b5d3aa029b351e
-
-
 POPC 電影頻道,p3p://108.181.32.169:53187/6700cdfc0007ab273520601d4ffa322b
-
-
-
 POPC 電影頻道,p3p://108.181.32.169:53187/67dd13f500025a36918c92cb2ce274f3
-
-
 POPC 電影頻道,p3p://108.181.32.169:53187/67dd13f500025a36918c92cb2ce274f3
-
-
 有迟缓慢朝鲜恩情台,https://s1.m16tv.cfd/aktv3/CH-0/AKTV.m3u8
-
-
 有迟缓慢TVB功夫台,https://hls-gateway.vpstv.net/streams/476226.m3u8
-
 有迟缓慢TVB粤语片,https://hls-gateway.vpstv.net/streams/476225.m3u8
-
-
-
-
-
 Channel 8(b),p3p://108.181.32.169:53187/642605590007b381edde676b090919b0
 Channel 5,p3p://108.181.32.169:53187/642606de000ae43dede457c221b81de1
 Channel 5(b),p3p://108.181.32.169:53187/642606cc000ea9beede41269137f162d
@@ -54,46 +27,17 @@ Vasantham(b),p3p://108.181.32.169:53187/64260747000040bcede5ef305d766294
 CNA,p3p://108.181.32.169:53187/6426077a00093ea7ede6b8b64d6d4c6e
 CAN B,p3p://108.181.32.169:53187/6426078a00013cc2ede6f5290aab17e4
 CM+,p3p://108.181.32.169:53187/65f5aee3000d00b621b571302181656e
-
-
-
 有延缓慢爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-
 有延缓慢IQIYI,https://s1.m16tv.cfd/aktv2/iqiyi/AKTV.m3u8
-
-
 Astro Quan Jia,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2YVJiREJKV3puL1lVOFhUQ1p1d1hxaQ%3D%3D
-
-
-
 Astro欢喜台,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2WW9KZmMxSFVCOVBwT2NybGpvUHFhNA%3D%3D
-
-
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-
-
 凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
-
-
 凤凰电影,https://tv.bfsu.edu.cn/hls/fhdy.m3u8
-
-
-
-
 E -Le HD 乐,p3p://108.181.32.169:53187/65f5aeef000e9d4b21b5a07a3391218d
-
-
 娱家,p3p://108.181.32.169:53187/65f5aef60008044721b5ba22261e5d65
-
-
 ECity 都会台,p3p://108.181.32.169:53187/65f5aefd0000f16221b5d3aa029b351e
-
-
-
 PoPc,p3p://108.181.32.169:53187/67dd13f500025a36918c92cb2ce274f3
-
-
-
 Channel 8(b),p3p://108.181.32.169:53187/642605590007b381edde676b090919b0
 Channel 5,p3p://108.181.32.169:53187/642606de000ae43dede457c221b81de1
 Channel 5(b),p3p://108.181.32.169:53187/642606cc000ea9beede41269137f162d
@@ -102,56 +46,23 @@ Channel u(b),p3p://108.181.32.169:53187/642606ee00041309ede4948330973faf
 Suria,p3p://108.181.32.169:53187/642607350004432dede5a9e74ab33b04
 Suria(b),p3p://108.181.32.169:53187/642607270006fbf5ede573e945ee3a6c
 
-
-
-
 脸红系列,#genre#
 
-
-
-
-私密頻道_686868,#genre#
+私密頻道,#genre#
 HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
-
-
 极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
-
-
 彩虹K台,https://hls-gateway.vpstv.net/streams/709040.m3u8
-
-
 潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
-
-
 松視1臺,https://hls-gateway.vpstv.net/streams/709043.m3u8
-
-
 松視2台,https://hls-gateway.vpstv.net/streams/709044.m3u8
-
-
 彩虹e臺,https://hls-gateway.vpstv.net/streams/709039.m3u8
-
-
 彩虹電影,https://hls-gateway.vpstv.net/streams/709038.m3u8
-
-
-
 松視3台,https://hls-gateway.vpstv.net/streams/709084.m3u8
-
-
-
 驚艷,https://hls-gateway.vpstv.net/streams/709041.m3u8
-
-
 完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8
 
-
-
 167成人需要挂梯综合频道#g
-
 需要挂梯167 潘多拉,p3p://167.114.175.6:55331/5fe4450c000c918b829fca233c845311
-
-
 需要挂梯167 香蕉,p3p://167.114.175.6:55331/60626a760005067e6f5bbecb5816771e
 需要挂梯167 松1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
 需要挂梯167 松2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
@@ -178,7 +89,6 @@ HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
 需要挂梯173 彩虹频道,p3p://173.208.176.178:31809/63fd589300099ff426db7203798a21f9
 需要挂梯173 极限电影,p3p://173.208.176.178:31809/6109e9bb0005fd87fd9ce5ea2c1f18d3
 
-
 需要挂梯松视CR,#genre#
 挂梯🎄松视1,p3p://167.114.175.6:55331/5fe445280008a40682a0367c343436bb
 挂梯🎄松视2,p3p://167.114.175.6:55331/60232b5f00007bc37850649979e379df
@@ -195,27 +105,13 @@ LOOK,p3p://167.114.175.6:55331/606271190002a1266f75aaee0463186a
 挂梯🌈彩虹电影,p3p://167.114.175.6:55331/6253066c00049259f74b05224cf375e6
 挂梯🌈彩虹频道,p3p://167.114.175.6:55331/63fd589300099ff426db7203798a21f9
 挂梯极限电影,p3p://167.114.175.6:55331/6109e9bb0005fd87fd9ce5ea2c1f18d3
-
-
-
-
-
-
-
-
-
-
 HAPPY CHANNEL,https://hls-gateway.vpstv.net/streams/709085.m3u8
 erox,https://hls-gateway.vpstv.net/streams/644724.m3u8
-
-
 TVB星河,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2WjNabkYrcU0rNmkzbTU1OXJEa3VWdg%3D%3D
 千禧经典台,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2WThwOHNNRzV2b0VuVUFFaVE0blpMeA%3D%3D
 TVB娱乐新闻台,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2YmQ4NHhNbGFqajJobUFyTmVraDJxTDhnekgxZW5MeHZiZUZndmlQY3JMdFE9PQ%3D%3D
 天映,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2Yi9rNnhhaFJ0MlNKUXhnVGJBUE5GNQ%3D%3D
 天映经典,https://feiyang.wangdu.site/decrypt.php?url=eWxyNlNiS1JJdUx6eS9QSzNvNXczUFVsd2FnekVWUzVndVVKYS92dGF2YVY2eWYrWHlmU0tYditsZWZmUkFnYg%3D%3D
-
-
 VB翡翠台(d),p3p://108.181.32.169:53187/655daa1c00083272cfe6541e61d40be0
 TVB翡翠台MY,p3p://108.181.32.169:53187/6533f6f8000f2ebd2d03af9d53e46544
 无线新闻,p3p://108.181.32.169:53187/67e00ecd000c74f49d3071251d8d59ef
@@ -265,7 +161,6 @@ HBO,p3p://108.181.32.169:53187/64137f0b0006a17fa58238155813216c
 HBO家庭,p3p://108.181.32.169:53187/64137f3c000d4a86a582f93235111bc5
 HBO原创,p3p://108.181.32.169:53187/64137f700008f329a583c3344ddf5dfc
 HBO强档,p3p://108.181.32.169:53187/64137f970005246ea5845a9326ce6233
-
 凤凰中文test,p3p://108.181.32.169:53187/6762ba10000a0d47b3a0309f2d8d2704
 Kix HD,p3p://108.181.32.169:53187/6413854d000785b1a59aaa2924fa1aa7
 Discovery Channel,p3p://108.181.32.169:53187/641383f300048101a59561c464b07293

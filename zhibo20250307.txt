@@ -8,4 +8,14 @@
 松视3,http://suo.im/9wiS2 
 pigoo,http://s.mrw.so/7DIBI 
 极限台,http://suo.im/aD7Ry
-
+HAPPY,https://hls-gateway.vpstv.net/streams/709091.m3u8
+极限,https://hls-gateway.vpstv.net/streams/709086.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/streams/709040.m3u8
+潘朵拉,https://hls-gateway.vpstv.net/streams/709042.m3u8
+松視1臺,https://hls-gateway.vpstv.net/streams/709043.m3u8
+松視2台,https://hls-gateway.vpstv.net/streams/709044.m3u8
+彩虹e臺,https://hls-gateway.vpstv.net/streams/709039.m3u8
+彩虹電影,https://hls-gateway.vpstv.net/streams/709038.m3u8
+松視3台,https://hls-gateway.vpstv.net/streams/709084.m3u8
+驚艷,https://hls-gateway.vpstv.net/streams/709041.m3u8
+完美台,https://hls-gateway.vpstv.net/streams/476375.m3u8

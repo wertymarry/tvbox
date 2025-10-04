@@ -1,24 +1,37 @@
-//以下网址全部收集自网络公开免费数据，如有冒犯请联系我们删除
 {
-"urls":[
-{"name":"饭硬【zouming.com】","url":"http://www.饭太硬.com/tv"},
-{"name":"摸鱼【zouming.com】","url":"http://我不是.摸鱼儿.com"},
-{"name":"肥猫【zouming.com】","url":"http://肥猫.com"},
-{"name":"星辰【zouming.com】","url":"https://fmbox.cc"},
-{"name":"二小【zouming.com】","url":"http://tvbox.王二小放牛娃.top"},
-{"name":"菜妮【zouming.com】","url":"https://tv.菜妮丝.top"},
-{"name":"老虎【zouming.com】","url":"http://tv.laohu.cool/tvbox.json"},
-{"name":"挺好【zouming.com】","url":"http://ztha.top/TVBox/thdjk.json"},
-{"name":"小马【zouming.com】","url":"https://szyyds.cn/tv/x.json"},
-{"name":"白龙【zouming.com】","url":"http://124.71.189.194/a.json"},
-{"name":"夜猫【zouming.com】","url":"http://74.120.175.78/JK/XYQTVBox/dj.json"},
-{"name":"短剧【zouming.com】","url":"https://pz.nxbox.top/dj/dj.json"},
-{"name":"动漫【zouming.com】","url":"https://www.yingm.cc/dm/dm.json"},
-{"name":"秒播【zouming.com】","url":"http://miao.qoo.qoo.us.kg/"},
-{"name":"俊佬【zouming.com】","url":"http://home.jundie.top:81/top98.json"},
-{"name":"传说【zouming.com】","url":"https://chuanshuo.77blog.cn/tv.json"},
-{"name":"青龙【zouming.com】","url":"https://gitee.com/yiwu369/6758/raw/master/1.json"},
-{"name":"儿童【zouming.com】","url":"https://xn--2qg-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌2qg"},
-{"name":"欧歌【zouming.com】","url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh"}
-]
+  "sites": [
+    {
+      "key": "荐片",
+      "name": "👖荐片✈️TG频道@stymei1",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/jianpian.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  {
+               "key": "111",
+               "name": "111",
+               "type": 3,
+               "jar": "./JAR/XBPQ250816.jar",
+               "api": "csp_XBPQ",
+               "ext": {
+                    "图片": "data-original=\"&&\"",
+                    "分类url": "https://9yqtk6fq.jibada21.xyz/vodtype/{cateId}-{catePg}.html;;!",
+                    "分类": "黑料吃瓜$69#国产精品$70#华语AV$71#乱伦精品$72#SM调教$25#女同性恋$26#日韩无码$56#中文字幕$62#学生合集$73#探花约炮$74#精品动漫$75#主播网红$76#日本无码$77#日本有码$78#VR视角$84#欧美大片$85#国产自拍$55#主播诱惑$63#探花约炮$58#偷拍偷窥$60#网曝吃瓜$57#抖阴短片$65#传媒剧情$64#日韩主播$61#AV解说$80#换脸明星$81#强奸乱伦$12#女优明星$20#欧美激情$21#重口激情$22#三级伦理$23#剧情动漫$24"
+               }
+          },
+          {
+               "key": "教师妈妈1",
+               "name": "教师妈妈1",
+               "type": 3,
+               "jar": "./JAR/XBPQ250816.jar",
+               "api": "csp_XBPQ",
+               "ext": {
+                    "分类url": "https://m.jsmm70.buzz/welcome/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+                    "分类": "国产视频$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#伦理三级$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#萝莉少女$26"
+               }
+          },
+  
+  ]
 }

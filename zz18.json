@@ -13,7 +13,7 @@
                "key": "111",
                "name": "111",
                "type": 3,
-               "jar": "./JAR/XBPQ250816.jar",
+               "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yxy2015/1/refs/heads/main/JAR/pg.jar",
                "api": "csp_XBPQ",
                "ext": {
                     "图片": "data-original=\"&&\"",
@@ -25,7 +25,7 @@
                "key": "教师妈妈1",
                "name": "教师妈妈1",
                "type": 3,
-               "jar": "./JAR/XBPQ250816.jar",
+               "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yxy2015/1/refs/heads/main/JAR/pg.jar",
                "api": "csp_XBPQ",
                "ext": {
                     "分类url": "https://m.jsmm70.buzz/welcome/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
@@ -35,3 +35,4 @@
   
   ]
 }
+

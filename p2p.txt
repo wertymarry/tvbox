@@ -162,7 +162,7 @@ happy,http://pulltest-bj.alivecdn.com:80/live/d162e82e75687d2105b93c3c81a7274c.f
 松视1,http://pulltest-bj.alivecdn.com:80/live/6b6b15d6393298e9e87137d2947c5848.flv
 
 
-👙凌晨｜频道_37886,#genre#
+👙凌晨｜频道,#genre#
 
 
 松松paRS,http://live.adultiptv.net/asian.m3u8
